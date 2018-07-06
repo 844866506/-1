@@ -50,8 +50,8 @@
     }
    }
    window.onload = function(){
-    alert("welcome to //www.jb51.net")
-    var msg = "嗨 咯死  胖 子";
+    alert("嗨 咯  胖 子")
+    var msg = "嗨   胖 子";
     function getMsg(){
      return msg;
     }
