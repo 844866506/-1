@@ -5,7 +5,7 @@
     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
     Remove this if you use the .htaccess -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>JS打字机效果</title>
+    <title>嗨咯  死胖子</title>
     <meta name="description" content="">
     <meta name="author" content="Administrator">
     <meta name="viewport" content="width=device-width; initial-scale=1.0">
@@ -50,8 +50,7 @@
     }
    }
    window.onload = function(){
-    alert("嗨 咯  胖 子")
-    var msg = "嗨   胖 子";
+    var msg = "嗨 咯  胖 子 ， 微风轻轻吹      我好喜欢你";
     function getMsg(){
      return msg;
     }
